@@ -8,3 +8,4 @@ contract ClearMessage {
     function clear() public { delete message; }
 }
 Refactor contract structure
+Adjust gas optimization logic
