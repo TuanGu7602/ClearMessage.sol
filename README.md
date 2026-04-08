@@ -10,3 +10,4 @@ contract ClearMessage {
 Refactor contract structure
 Adjust gas optimization logic
 Update contract version
+Remove redundant checks
