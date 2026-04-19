@@ -12,3 +12,4 @@ Adjust gas optimization logic
 Update contract version
 Remove redundant checks
 Enhance security validation
+Optimize storage usage
